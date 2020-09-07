@@ -1,1 +1,1 @@
-# nodejs-caesar-cipher
+# js-caesar-cipher
